@@ -35,4 +35,4 @@ If you have any questions or concerns, please feel free to contact me. I am happ
 <br />
 
 ### 🏆 My Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaoTrieuIT&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaoTrieuIT&layout=compact&theme=dracula&show_icons=true&hide_border=false&count_private=true)
