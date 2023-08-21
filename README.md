@@ -13,6 +13,7 @@ If you have any questions or concerns, please feel free to contact me. I am happ
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trieubaoit/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Btr_it2712)
 ---
+
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -24,6 +25,9 @@ If you have any questions or concerns, please feel free to contact me. I am happ
 <img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="MYSQL" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <br />
+
+#
+
 ### 🤓 My Stats
 ![BaoTrieuIT's Stats](https://github-readme-stats.vercel.app/api?username=BaoTrieuIT&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![BaoTrieuIT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaoTrieuIT&theme=dracula&hide_border=false)
