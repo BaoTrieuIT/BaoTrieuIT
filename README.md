@@ -23,7 +23,7 @@ If you have any questions or concerns, please feel free to contact me. I am happ
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="MYSQL" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-
+<br />
 ### 🤓 My Stats
 ![BaoTrieuIT's Stats](https://github-readme-stats.vercel.app/api?username=BaoTrieuIT&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![BaoTrieuIT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaoTrieuIT&theme=dracula&hide_border=false)
