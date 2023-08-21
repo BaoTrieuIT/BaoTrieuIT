@@ -32,3 +32,7 @@ If you have any questions or concerns, please feel free to contact me. I am happ
 ![BaoTrieuIT's Stats](https://github-readme-stats.vercel.app/api?username=BaoTrieuIT&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![BaoTrieuIT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaoTrieuIT&theme=dracula&hide_border=false)
 
+<br />
+
+### 🏆 My Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaoTrieuIT)](https://github.com/BaoTrieuIT/github-readme-stats)
