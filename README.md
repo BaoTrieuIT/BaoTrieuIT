@@ -24,7 +24,7 @@ If you have any questions or concerns, please feel free to contact me. I am happ
 <img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="MYSQL" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-
+---
 ## 🤓 My Stats
-![trandat1114's Stats](https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![trandat1114's Streak](https://github-readme-streak-stats.herokuapp.com/?user=trandat1114&theme=radical&hide_border=false)
+![BaoTrieuIT's Stats](https://github-readme-stats.vercel.app/api?username=BaoTrieuIT&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![BaoTrieuIT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaoTrieuIT&theme=radical&hide_border=false)
