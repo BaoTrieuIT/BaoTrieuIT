@@ -1,6 +1,6 @@
 ### 🐐 Norcirpac
 
-**`Fresher Full-stack`**
+**`Intern`**
 
 Hello, my name is Trieu Phan Thien Bao, also known as norcirpac. I am a fresher full-stack developer currently studying and working in Ho Chi Minh City. My main language is Java, along with JavaScript and AngularJS. Welcome to my GitHub profile.
 
